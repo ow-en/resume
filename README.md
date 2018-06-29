@@ -8,6 +8,8 @@ The Illustrator files are included—or you can just edit the pdf.
 
 Cheers
 
+View the corresponding Medium write-up [here.](https://medium.com/@caulfieldOwen/paid-resume-templates-suck-so-i-built-my-own-and-open-sourced-it-587107e25ffd)
+
 Owen Caulfield
 Cardiff CA
 (I’m a web developer looking for a job)
